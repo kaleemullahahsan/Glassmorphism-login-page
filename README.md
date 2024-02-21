@@ -23,7 +23,7 @@ This project provides a modern and visually appealing login form designed with t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/glassmorphism-login-form.git
+    [git clone https://github.com/your-username/glassmorphism-login-form.git](https://github.com/kaleemullahahsan/Glassmorphism-login-page.git)
     ```
 
 2. Open the `index.html` file in your preferred web browser.
